@@ -1,0 +1,19 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œä™ÿÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+F
+java:S1172"+Remove this unused method parameter "text".(Ç…‚ùÿÿÿÿ
+:
+java:S1168"$Return an empty map instead of null.(¥¹ï
+A
+java:S1172"+Remove this unused method parameter "text".(÷¬–‡
+:
+java:S1168"$Return an empty map instead of null.(¥¹ï
+H
+java:S1172"-Remove this unused method parameter "textCp".(çÎÖ­ùÿÿÿÿ
+:
+java:S1168"$Return an empty map instead of null.(¥¹ï
+H
+java:S1172"-Remove this unused method parameter "textCp".(¢ì¤Íúÿÿÿÿ
+:
+java:S1168"$Return an empty map instead of null.(¥¹ï
